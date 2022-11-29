@@ -34,12 +34,10 @@ yarn-error.log
 /libpeerconnection.log
 testem.log
 /typings
+/temp-assets
+how-to.txt
+deploy.sh
 
 # System files
 .DS_Store
 Thumbs.db
-
-# misc files
-/temp-assets
-how-to.txt
-deploy.sh
